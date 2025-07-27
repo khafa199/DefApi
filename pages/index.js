@@ -119,21 +119,21 @@ export default function Home() {
     <>
       <Head>
         <title>Nevaria - API Documentation</title>
-        <meta name="title" content="Nevaria - REST API Documentation" />
-        <meta name="description" content="Nevaria is a free, simple REST API created by VynnoxRzy for the common good. Feel free to use it, but please avoid DDoS attacks." />
-        <meta name="keywords" content="REST API, VynnoxRzy, Siputzx, Qanypaw, Nawdev, Itzpire API, free API, API documentation, bot wa, free REST API" />
+        <meta name="title" content="Khafa XD - REST API Documentation" />
+        <meta name="description" content="Khafa is a free, simple REST API created by Khafa XD for the common good. Feel free to use it, but please avoid DDoS attacks." />
+        <meta name="keywords" content="REST API, Khafa XD, Siputzx, Qanypaw, Nawdev, Itzpire API, free API, API documentation, bot wa, free REST API" />
         <meta name="robots" content="index, follow" />
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="English, Indonesian" />
 
-        <meta property="og:title" content="Nevaria - REST API Documentation" />
-        <meta property="og:description" content="Nevaria is a free, simple REST API created by VynnoxRzy for the common good. Feel free to use it, but please avoid DDoS attacks." />
+        <meta property="og:title" content="Khafa - REST API Documentation" />
+        <meta property="og:description" content="Khafa  is a free, simple REST API created by Khafa XD for the common good. Feel free to use it, but please avoid DDoS attacks." />
         <meta property="og:url" content="https://www.nevariaapi.nevariacloud.my.id" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="https://files.catbox.moe/pv6uhn.jpg" />
 
-        <meta name="twitter:title" content="Nevaria - REST API Documentation" />
-        <meta name="twitter:description" content="Nevaria is a free, simple REST API created by VynnoxRzy for the common good. Feel free to use it, but please avoid DDoS attacks." />
+        <meta name="twitter:title" content="Khafa - REST API Documentation" />
+        <meta name="twitter:description" content="Khafa is a free, simple REST API created by Khafa XD for the common good. Feel free to use it, but please avoid DDoS attacks." />
         <meta name="twitter:image" content="https://files.catbox.moe/pv6uhn.jpg" />
         <meta name="twitter:card" content="summary_large_image" />
 
@@ -148,13 +148,13 @@ export default function Home() {
           __html: JSON.stringify({
             "@context": "http://schema.org",
             "@type": "WebSite",
-            "name": "Nevaria",
+            "name": "Khafa XD",
             "url": "https://www.nevariaapi.nevariacloud.my.id",
-            "description": "Nevaria is a free, simple REST API created by VynnoxRzy for the common good. Feel free to use it, but please avoid DDoS attacks.",
+            "description": "Khafa is a free, simple REST API created by Khafa XD for the common good. Feel free to use it, but please avoid DDoS attacks.",
             "sameAs": [
-              "https://www.facebook.com/yourprofile",
-              "https://www.twitter.com/yourprofile",
-              "https://www.linkedin.com/in/yourprofile"
+              "https://www.facebook.com/khafa",
+              "https://www.twitter.com/khafa",
+              "https://www.linkedin.com/in/khafa"
             ]
           })
         }}
